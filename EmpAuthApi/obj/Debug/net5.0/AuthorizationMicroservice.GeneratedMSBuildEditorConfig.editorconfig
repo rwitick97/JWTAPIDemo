@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = AuthorizationMicroservice
-build_property.ProjectDir = G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\
+build_property.ProjectDir = /workspaces/JWTAPIDemo/EmpAuthApi/
